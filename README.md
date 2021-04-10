@@ -1,3 +1,8 @@
+I've done this challenge on the 10/04/2021 in order to practice my skills in regards of HTML and CSS.
+
+Check out the final result at https://fabbioamaral.github.io/singleGridComponentMaster/
+-----------------------------------------------------------------------------------------------------------------
+
 # Frontend Mentor - Single price grid component
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
