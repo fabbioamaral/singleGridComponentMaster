@@ -1,3 +1,7 @@
+I've done this challenge on the 03/04/2021 in order to practice my skills in regards of HTML and CSS.
+
+-----------------------------------------------------------------------------------------------------------------
+
 # Frontend Mentor - Single price grid component
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
