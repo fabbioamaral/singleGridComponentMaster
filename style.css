@@ -120,9 +120,12 @@ footer .attribution{
     }
 
     .div1 h1{
-        font-size: 25px;
-       
-}
+        font-size: 25px;       
+    }
+
+    .div1 p{
+        width:550px;
+    }
     
     .div2{      
         display:flex;
